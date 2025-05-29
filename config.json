@@ -1,0 +1,17 @@
+{
+    "updater": {
+        "default": {
+            "provider": "github",
+            "repo": "openblockcc/external-resources-v2"
+        },
+        "cn": {
+            "provider": "spaces",
+            "name": "openblock",
+            "path": "resource",
+            "region": "sgp1"
+        }
+    },
+    "version": "v0.2.1",
+
+    "sha256":"b9a19ff63fc476e04c88be12cb64665127472e5ea01c17dd804d9b2bdaa6ce81"
+}
