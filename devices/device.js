@@ -21,9 +21,9 @@ module.exports = [
     'microPythonRaspberryPiPico',
     'microbit',
     'microbitV2',
-    'makeyMakey',
+    'makeyMakey'
     // Third party
-    'deviceDemo_esp32',
-    'deviceDemo_arduinoEsp32',
-    'deviceDemo_microPythonEsp32'
+    // 'deviceDemo_esp32',
+    // 'deviceDemo_arduinoEsp32',
+    // 'deviceDemo_microPythonEsp32'
 ];
